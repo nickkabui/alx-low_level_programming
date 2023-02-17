@@ -1,9 +1,10 @@
 #include <stdio.h>
 /**
- * main -C programming with Betty language
- * Return: 0
+ * main - C Programming with Betty
+ * Return: 0(success)
  */
 int main(void)
 {
-printf("with proper grammar, but the outcome is a piece of art,");
+printf("with proper grammar, but the outcome is a piece of art,\n");
 return (0);
+}
