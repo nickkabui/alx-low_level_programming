@@ -12,8 +12,8 @@ int main(void)
 
 	for (a = '0'; a < '9'; a++)
 	{
-		
-	for (c = a+1; c <= '9'; c++)
+
+	for (c = a + 1; c <= '9'; c++)
 
 	{
 	if (c != a)
