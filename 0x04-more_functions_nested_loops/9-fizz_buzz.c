@@ -4,7 +4,7 @@
  * main - Prints a Fizz Buzz program
  * Returns: 0 (Success)
  */
-int (void)
+int main(void)
 
 {
 	int x;
