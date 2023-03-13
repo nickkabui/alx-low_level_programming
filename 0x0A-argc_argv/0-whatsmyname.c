@@ -1,12 +1,13 @@
 #include "main.h"
 #include <stdio.h>
 
-/*main - prints its name
- *@argc: argrument count
- *@argv: argument vector
- *Return: 0 (Success)
+/**
+ * main - prints its name
+ * @argc: argrument count
+ * @argv: argument vector
+ * Return: 0 (Success)
  */
- int main(int argc, char *argv[])
+int main(int argc, char *argv[])
 {
 	(void)argc;
 	printf("%s\n", argv[0]);
